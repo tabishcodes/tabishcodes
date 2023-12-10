@@ -1,14 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tabish Sheikh
-=====================================================================================================================================
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Tabish Sheikh,
 
 Software Developer
 ------------------
 
-Adaptable professional have experience and proven knowledge of Software Development. Aim every day to become a better version of myself.
+Adaptable professional with experience and proven knowledge of Software Development. I aim every day to become a better version of myself.
 
 * 🌍  I'm based in Nagpur, Maharashtra, India.
 * ✉️  You can contact me at [tabishsheikhcs@gmail.com](mailto:tabishsheikhcs@gmail.com)
-* 🧠  I'm learning Full Stack Developement.
+* 🧠  I'm learning Full Stack Development.
 * 🤝  I'm open to collaborating on Projects.
 
 ### Skills
@@ -28,7 +27,5 @@ Adaptable professional have experience and proven knowledge of Software Developm
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/tabishcodes"><img src="https://github-readme-stats.vercel.app/api?username=tabishcodes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tabishcodes's GitHub stats" /></a>
-
 <a href="http://www.github.com/tabishcodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tabishcodes&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <a href="http://www.github.com/tabishcodes"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=tabishcodes&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
